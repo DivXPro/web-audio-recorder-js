@@ -1,0 +1,6 @@
+{
+  "name": "web-audio-recorder-js",
+  "homepage": "https://github.com/DivXPro/web-audio-recorder-js.git",
+  "version": "0.1.1.1",
+  "main": "./lib/WebAudioRecorder.js"
+}
